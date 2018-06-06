@@ -1,0 +1,22 @@
+{
+  "name": "textpad",
+  "version": "1.0.0",
+  "description": "Simple notepad type application",
+  "main": "index.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivagtr/textpad.git"
+  },
+  "author": "Siva Srinivasa Rao Mothukuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivagtr/textpad/issues"
+  },
+  "homepage": "https://github.com/sivagtr/textpad#readme",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
